@@ -1,0 +1,14 @@
+/*
+/.**
+
+!/bin/
+!/bin/**
+
+!/.config/
+!/.config/fish/
+!/.config/fish/**
+
+!/README.md
+!/LICENSE
+!.gitignore
+!.gitkeep
