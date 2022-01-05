@@ -13,6 +13,7 @@ git clone git@github.com:Johniel/.emacs.d.git
 git clone git@github.com:Johniel/contests.git
 mkdir ~/projects
 mkdir ~/workspace
+mkdir ~/memo
 
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
 fisher add jethrokuan/z
