@@ -8,6 +8,9 @@ brew install fd
 brew install fish
 brew install rd
 brew install git-delta
+brew install tree
+brew install pwgen
+brew install jq
 
 git clone git@github.com:Johniel/.emacs.d.git
 git clone git@github.com:Johniel/contests.git
