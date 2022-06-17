@@ -19,7 +19,7 @@ mkdir ~/workspace
 mkdir ~/memo
 
 curl https://git.io/fisher --create-dirs -sLo ~/.config/fish/functions/fisher.fish
-fisher add jethrokuan/z
+fisher install jethrokuan/z
 
 cat <<EOS >> ~/.gitconfig
 [core]
