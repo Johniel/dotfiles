@@ -11,6 +11,7 @@ brew install git-delta
 brew install tree
 brew install pwgen
 brew install jq
+brew install bottom
 
 git clone git@github.com:Johniel/.emacs.d.git
 git clone git@github.com:Johniel/contests.git
