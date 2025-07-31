@@ -14,6 +14,7 @@ brew install jq
 brew install bottom
 brew install xsel
 brew install adr-tools
+brew install fzf
 
 git clone git@github.com:Johniel/.emacs.d.git
 git clone git@github.com:Johniel/contests.git
